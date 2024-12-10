@@ -27,7 +27,8 @@
 - Web development technologies and best practices.<br>
 - My experiences with Blockchain and decentralized solutions.<br><br>
 
- ### 📫 How to reach me: **maneesharaj25@gmail.com**
+ ### 📫 How to reach me:  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maneesharaj25@gmail.com)
+ 
  <br>
 <h2 align="left">Connect with me:</h3> 
 <p align="left">
